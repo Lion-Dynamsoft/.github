@@ -6,7 +6,7 @@ You can find samples for Dynamsoft's SDKs here.
 
 #### Desktop/Server
 
-* [.net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)
+* [.Net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)
 * [Python](https://github.com/Dynamsoft/barcode-reader-python-samples) 
 * [Java](https://github.com/Dynamsoft/barcode-reader-java-samples)
 * [C/C++](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
@@ -21,7 +21,7 @@ You can find samples for Dynamsoft's SDKs here.
 
 #### Web
 
-[JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples)
+* [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples)
 
 
 ### Document Scanning
@@ -36,7 +36,7 @@ You can find samples for Dynamsoft's SDKs here.
 
 ### Label Recognition
 
-* [.net](https://github.com/Dynamsoft/label-recognizer-dotnet-samples)
+* [.Net](https://github.com/Dynamsoft/label-recognizer-dotnet-samples)
 * [Java](https://github.com/Dynamsoft/label-recognizer-java-samples)
 * [C/C++](https://github.com/Dynamsoft/label-recognizer-c-cpp-samples)
 * [Mobile](https://github.com/Dynamsoft/label-recognizer-mobile-samples)
