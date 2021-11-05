@@ -9,7 +9,7 @@ You can find samples for Dynamsoft's SDKs here.
 * [.net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)
 * [Python](https://github.com/Dynamsoft/barcode-reader-python-samples) 
 * [Java](https://github.com/Dynamsoft/barcode-reader-java-samples)
-* [C/C++](https://github.com/Dynamsoft/Dynamsoft-Barcode-Reader)
+* [C/C++](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
 
 #### Mobile
 
