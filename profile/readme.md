@@ -4,25 +4,23 @@ You can find samples for Dynamsoft's SDKs here.
 
 ### Barcode
 
+#### Web
+
+* [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples)
+
+#### Mobile
+
+* [Android & iOS](https://github.com/Dynamsoft/barcode-reader-mobile-samples)
+* [React Native](https://github.com/Dynamsoft/RN-mobile-barcode-scanner)
+* [Cordova](https://github.com/Dynamsoft/cordova-plugin-dbr)
+* [Xamarin](https://github.com/Dynamsoft/xamarin-barcode)
+
 #### Desktop/Server
 
 * [.Net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)
 * [Python](https://github.com/Dynamsoft/barcode-reader-python-samples) 
 * [Java](https://github.com/Dynamsoft/barcode-reader-java-samples)
 * [C/C++](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
-
-#### Mobile
-
-* [DBR Mobile](https://github.com/Dynamsoft/barcode-reader-mobile-samples)
-* [With Camera Enhancer](https://github.com/Dynamsoft/camera-enhancer-mobile-samples)
-* [React Native](https://github.com/Dynamsoft/RN-mobile-barcode-scanner)
-* [Cordova](https://github.com/Dynamsoft/cordova-plugin-dbr)
-* [Xamarin](https://github.com/Dynamsoft/xamarin-barcode)
-
-#### Web
-
-* [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples)
-
 
 ### Document Scanning
 
@@ -39,4 +37,4 @@ You can find samples for Dynamsoft's SDKs here.
 * [.Net](https://github.com/Dynamsoft/label-recognizer-dotnet-samples)
 * [Java](https://github.com/Dynamsoft/label-recognizer-java-samples)
 * [C/C++](https://github.com/Dynamsoft/label-recognizer-c-cpp-samples)
-* [Mobile](https://github.com/Dynamsoft/label-recognizer-mobile-samples)
+* [Android & iOS](https://github.com/Dynamsoft/label-recognizer-mobile-samples)
