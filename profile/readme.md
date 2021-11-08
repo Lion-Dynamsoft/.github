@@ -2,7 +2,7 @@
 
 You can find samples for Dynamsoft's SDKs here.
 
-### Barcode
+### Barcode Reading
 
 #### Web
 
