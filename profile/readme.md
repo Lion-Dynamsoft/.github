@@ -1,26 +1,17 @@
+![Dynamsoft GitHub Homepage](https://www.dynamsoft.com/blog/wp-content/uploads/2021/11/github-dynamsoft-banner.jpg)
 ## Overview
 
 You can find samples for Dynamsoft's SDKs here.
 
 ### Barcode Reading
+| Web      | Mobile         | Desktop/Server |
+| ----------- | ----------- |-----------    |
+| [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples)      | [Android & iOS](https://github.com/Dynamsoft/barcode-reader-mobile-samples)       |  [.Net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)             |
+|    | [React Native](https://github.com/Dynamsoft/RN-mobile-barcode-scanner)        |   [Python](https://github.com/Dynamsoft/barcode-reader-python-samples)             |
+|    | [Cordova](https://github.com/Dynamsoft/cordova-plugin-dbr)        |  [Java](https://github.com/Dynamsoft/barcode-reader-java-samples)             |
+|    | [Xamarin](https://github.com/Dynamsoft/xamarin-barcode)      |  [C/C++](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
+            
 
-#### Web
-
-* [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples)
-
-#### Mobile
-
-* [Android & iOS](https://github.com/Dynamsoft/barcode-reader-mobile-samples)
-* [React Native](https://github.com/Dynamsoft/RN-mobile-barcode-scanner)
-* [Cordova](https://github.com/Dynamsoft/cordova-plugin-dbr)
-* [Xamarin](https://github.com/Dynamsoft/xamarin-barcode)
-
-#### Desktop/Server
-
-* [.Net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)
-* [Python](https://github.com/Dynamsoft/barcode-reader-python-samples) 
-* [Java](https://github.com/Dynamsoft/barcode-reader-java-samples)
-* [C/C++](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
 
 ### Document Scanning
 
