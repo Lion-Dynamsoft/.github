@@ -25,6 +25,7 @@ You can find samples for Dynamsoft's SDKs here.
 
 ### Label Recognition
 
+* [JavaScript](https://github.com/Dynamsoft/label-recognizer-javascript-samples)
 * [.Net](https://github.com/Dynamsoft/label-recognizer-dotnet-samples)
 * [Java](https://github.com/Dynamsoft/label-recognizer-java-samples)
 * [C/C++](https://github.com/Dynamsoft/label-recognizer-c-cpp-samples)
