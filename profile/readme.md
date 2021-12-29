@@ -30,3 +30,8 @@ You can find samples for Dynamsoft's SDKs here.
 * [Java](https://github.com/Dynamsoft/label-recognizer-java-samples)
 * [C/C++](https://github.com/Dynamsoft/label-recognizer-c-cpp-samples)
 * [Android & iOS](https://github.com/Dynamsoft/label-recognizer-mobile-samples)
+
+### Camera Enhancer
+
+* [Android & iOS](https://github.com/Dynamsoft/camera-enhancer-mobile-samples)
+* [JavaScript](https://github.com/Dynamsoft/camera-enhancer-javascript-samples)
