@@ -17,9 +17,7 @@ You can find samples for Dynamsoft's SDKs here.
 
 * [Vanilla JS](https://github.com/Dynamsoft/Dynamic-Web-TWAIN/tree/master/samples)
 * [Vue](https://github.com/Dynamsoft/dwt-vue-simple)
-* [React](https://github.com/Dynamsoft/dwt-react-simple)
 * [React Advanced](https://github.com/Dynamsoft/dwt-react-advanced)
-* [Angular](https://github.com/Dynamsoft/dwt-angular-simple)
 * [Angular Advanced](https://github.com/Dynamsoft/dwt-angular-advanced)
 
 
