@@ -7,7 +7,7 @@ You can find samples for Dynamsoft's SDKs here.
 | Web      | Mobile         | Desktop/Server |
 | ----------- | ----------- |-----------    |
 | [JavaScript](https://github.com/Dynamsoft/barcode-reader-javascript-samples)      | [Android & iOS](https://github.com/Dynamsoft/barcode-reader-mobile-samples)       |  [.Net](https://github.com/Dynamsoft/barcode-reader-dotnet-samples)             |
-|    | [React Native](https://github.com/Dynamsoft/RN-mobile-barcode-scanner)        |   [Python](https://github.com/Dynamsoft/barcode-reader-python-samples)             |
+|    | [React Native](https://github.com/Dynamsoft/capture-vision-react-native)        |   [Python](https://github.com/Dynamsoft/barcode-reader-python-samples)             |
 |    | [Cordova](https://github.com/Dynamsoft/cordova-plugin-dbr)        |  [Java](https://github.com/Dynamsoft/barcode-reader-java-samples)             |
 |    | [Xamarin](https://github.com/Dynamsoft/xamarin-barcode)      |  [C/C++](https://github.com/Dynamsoft/barcode-reader-c-cpp-samples)
             
